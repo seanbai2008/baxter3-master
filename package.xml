@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <name>baxter3</name>
+  <version>0.1.0</version>
+  <description>The baxter3 package</description>
+
+  <maintainer email="jzwoodruff@u.northwestern.edu">Zack Woodruff</maintainer>
+  <license>BSD</license>
+  <author email="amandashorter2021@u.northwestern.edu">Amanda Shorter</author>
+  <author email="fanbai2015@u.northwestern.edu">Fan Bai</author>
+  <author email="janemiller2012@u.northwestern.edu">Jane Miller</author>
+  <author email="jzwoodruff@u.northwestern.edu">Zack Woodruff</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+  
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+</package>
